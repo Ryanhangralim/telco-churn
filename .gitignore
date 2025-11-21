@@ -1,5 +1,6 @@
 # Virtual environment
 peib/
+venv-streamlit/
 
 # Python stuff
 __pycache__/
